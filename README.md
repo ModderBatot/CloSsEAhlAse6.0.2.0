@@ -3,7 +3,7 @@
     {
       "package": "com.google.android.youtube",
       "status": true,
-      "installed_error_message": "تم القفل"
+      "installed_error_message": " تم القفل"
     }
   ],
   "Detect_Not_installed": [
